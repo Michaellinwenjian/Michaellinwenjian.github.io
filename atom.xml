@@ -45,7 +45,7 @@
     <link href="https://michaellinwenjian.github.io/2020/06/10/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
     <id>https://michaellinwenjian.github.io/2020/06/10/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-06-11T04:45:42.000Z</published>
-    <updated>2020-06-12T16:19:27.410Z</updated>
+    <updated>2020-06-13T16:25:57.876Z</updated>
     
     <content type="html"><![CDATA[        <h2 id="第一章"   >          <a href="#第一章" class="heading-link"><i class="fas fa-link"></i></a>第一章</h2>      <p>page one</p>        <h2 id="第二章"   >          <a href="#第二章" class="heading-link"><i class="fas fa-link"></i></a>第二章</h2>      <p>page two </p>        <h2 id="第三章"   >          <a href="#第三章" class="heading-link"><i class="fas fa-link"></i></a>第三章</h2>      <p>page three</p>        <h2 id="结尾"   >          <a href="#结尾" class="heading-link"><i class="fas fa-link"></i></a>结尾</h2>      <p>the end</p>]]></content>
     
@@ -68,6 +68,8 @@
     
       <category term="测试" scheme="https://michaellinwenjian.github.io/categories/technology/%E6%B5%8B%E8%AF%95/"/>
     
+    
+      <category term="测试" scheme="https://michaellinwenjian.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
